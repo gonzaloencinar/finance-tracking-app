@@ -31,10 +31,10 @@
     />
     <Trend
       color="red"
-      title="Income"
+      title="Outcome"
       :amount="4000"
       :last-amount="3000"
-      :loading="false"
+      :loading="true"
     />
   </section>
 </template>
