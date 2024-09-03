@@ -11,30 +11,30 @@
     <Trend
       color="green"
       title="Income"
-      :amount="4000"
-      :last-amount="3000"
+      :amount="6000"
+      :last-amount="2600"
       :loading="false"
     />
     <Trend
       color="red"
       title="Outcome"
-      :amount="4000"
-      :last-amount="3000"
+      :amount="1000"
+      :last-amount="2030"
       :loading="false"
     />
     <Trend
       color="green"
       title="Income"
-      :amount="4000"
-      :last-amount="3000"
+      :amount="9000"
+      :last-amount="5371"
       :loading="false"
     />
     <Trend
       color="red"
       title="Outcome"
-      :amount="4000"
+      :amount="1090"
       :last-amount="3000"
-      :loading="true"
+      :loading="false"
     />
   </section>
 </template>
